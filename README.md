@@ -4,7 +4,7 @@
 
 Business Analysis & turning messy ideas into structured solutions
 Fintech strategy & digital banking infrastructure (Zappay journey)
-Cybersecurity fundamentals, SOC thinking & log analysis
+Cybersecurity fundamentals, SOC thinking, Cybersecurity threat intelligence & log analysis
 Process improvement in operations & logistics
 Payment systems, APIs & middleware architecture
 Transitioning from operations into tech
