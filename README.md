@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Christian
-#### I am Business and Cybersecurity analyst
+#### I am a Cybersecurity and Business  analyst
 ![Business Analysis](https://img.shields.io/badge/Business-Analysis-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-SOC%20Mindset-red?style=for-the-badge&logo=hackthebox&logoColor=white)  ![Fintech](https://img.shields.io/badge/Fintech-Digital%20Banking-green?style=for-the-badge&logo=visa&logoColor=white)  ![Process Improvement](https://img.shields.io/badge/Operations-Process%20Optimization-orange?style=for-the-badge&logo=datadog&logoColor=white)  ![Log Analysis](https://img.shields.io/badge/Security-Log%20Analysis-black?style=for-the-badge&logo=splunk&logoColor=white)
 
 Business Analysis & turning messy ideas into structured solutions
